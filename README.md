@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mungai John Karanja!<br><br>🔭 I’m currently working on:<br>- A IReporter app using Flask API backend and React frontend<br>- An Apartment Management App using Flask API backend and React frontend<br><br>🌱 I’m currently learning:<br>- Advanced Flask techniques<br>- Role-based access control in React<br><br>💬 Ask me about:<br>- Flask, React, and full-stack development<br>- Testing with pytest and npm test<br><br>📫 How to reach me: Email: jonniekaras@gmail.com, linkedin: www.linkedin.com/in/john-mungai-karanja<br><br>⚡ Fun fact: I love integrating new technologies and solving challenging problems.
+👋 Hi, I'm Mungai John Karanja!<br><br>💬 Ask me about:<br>- Python, JavaScript, Django, Flask, React, Docker, AWS<br>- Testing with pytest and npm test<br><br>📫 How to reach me: Email: jonniekaras@gmail.com, linkedin: www.linkedin.com/in/john-mungai-karanja<br><br>⚡ Fun fact: I love integrating new technologies and solving challenging problems.
 
 
 ## 🌐 Socials:
