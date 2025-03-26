@@ -1,4 +1,4 @@
-** 💫 About Me:**<br/>
+**# 💫 About Me:**<br/>
 👋 Hi, I'm Mungai John Karanja - Full-stack developer passionate about building solutions with Python (Django/Flask) and JavaScript (React).
 
 🔧 **Tech Stack:**
