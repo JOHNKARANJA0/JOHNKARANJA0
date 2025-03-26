@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Mungai John Karanja!<br><br>💬 Ask me about:<br>- Python, JavaScript, Django, Flask, React, Docker, AWS<br>- Testing with pytest and npm test<br><br>📫 How to reach me: Email: jonniekaras@gmail.com, linkedin: www.linkedin.com/in/john-mungai-karanja<br><br>⚡ Fun fact: I love integrating new technologies and solving challenging problems.
+** 💫 About Me:**<br/>
+👋 Hi, I'm Mungai John Karanja - Full-stack developer passionate about building solutions with Python (Django/Flask) and JavaScript (React).
+
+🔧 **Tech Stack:**
+- Backend: Python, Django, Flask, REST APIs
+- Frontend: React, HTML/CSS
+- DevOps: Docker, AWS basics
+- Testing: pytest, npm test
+
+📫 **Reach me:** jonniekaras@gmail.com | [LinkedIn](www.linkedin.com/in/john-mungai-karanja)
 
 
 ## 🌐 Socials:
