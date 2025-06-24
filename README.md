@@ -24,7 +24,7 @@ I'm a passionate **Full Stack Developer** from Kenya, with a strong foundation i
 
 ## 🔗 Let's Connect
 
-- 🌐 Portfolio: [johnkaranja.com](https://johnkaranja.com)
+- 🌐 Portfolio: [johnkaranja.com](https://mungaijohnkaranja.onrender.com)
 - 💼 LinkedIn: [linkedin.com/in/john-mungai-karanja](https://www.linkedin.com/in/john-mungai-karanja)
 - 🐙 GitHub: [JOHNKARANJA0](https://github.com/JOHNKARANJA0)
 - 📧 Email: jonniekaras@gmail.com
